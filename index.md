@@ -4,6 +4,7 @@
 
 title: Home
 layout: home
+nav_order: 10
 ---
 
 간단하게 아는 내용을 정리해 올리는 개발 블로그입니다 :)
