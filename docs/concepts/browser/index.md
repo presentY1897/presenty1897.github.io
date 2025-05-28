@@ -8,7 +8,6 @@ parent: Concept
 
 ### TO-DO
 
-1. cookie
 1. cors
 1. html attribute property
 1. latency
