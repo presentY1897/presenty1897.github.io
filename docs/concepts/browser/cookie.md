@@ -2,6 +2,7 @@
 layout: page
 title: Cookie
 parent: Browser
+premalink: /docs/concepts/browser/cookie/
 ---
 
 # Cookie
